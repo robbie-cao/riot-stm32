@@ -456,6 +456,7 @@ SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
 
                      END OF TERMS AND CONDITIONS
+<<<<<<< HEAD
 
            How to Apply These Terms to Your New Libraries
 
@@ -502,3 +503,5 @@ necessary.  Here is a sample; alter the names:
   Ty Coon, President of Vice
 
 That's all there is to it!
+=======
+>>>>>>> riot/master
